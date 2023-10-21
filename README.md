@@ -23,7 +23,7 @@
 
 ## Log
 <div style="display: flex; flex-direction: row;">
-  <a href="https://mogwa-sitter.tistory.com/">
+  <a href="https://velog.io/@ski3453/">
     <img src="https://img.shields.io/badge/Tistory-000000?style=plastic-square&logo=Tistory&logoColor=white">
   </a>
 </div>
