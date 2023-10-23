@@ -1,4 +1,4 @@
-# 김규리 KIM GYURI
+# 김규리 *KIM GYURI*
 
 <div align=center>
 
