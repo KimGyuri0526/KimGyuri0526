@@ -1,4 +1,6 @@
-# 김규리 *KIM GYU RI*
+# 김규리 *KIM GYURI*
+
+<br><br>
 
 <div align=center>
 
@@ -38,11 +40,7 @@
 </div>
 
 <br><br><br>
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fleesr94&count_bg=%23A789C8&title_bg=%237933AB&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
-[![Solved.ac프로필](http://mazassumnida.wtf/api/mini/generate_badge?boj=solll)](https://solved.ac/solll)
 
-
-[![Tistory's Card](https://github-readme-tistory-card.vercel.app/api?name=mogwa-sitter&theme=default)](https://mogwa-sitter.tistory.com/)
-![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=leesr94&show_icons=true&theme=graywhite)
+![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=ski3453&show_icons=true&theme=graywhite)
 
 </div>
