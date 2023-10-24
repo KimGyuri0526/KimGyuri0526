@@ -1,4 +1,4 @@
-# 김규리 *KIM GYURI*
+# 김규리 *KIM GYU RI*
 
 <div align=center>
 
@@ -13,7 +13,7 @@
 
 <br>
 
-## Learning
+## Studying
 <div style="display: flex; flex-direction: row;">
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=plastic-square&logo=javascript&logoColor=white">
   <img src="https://img.shields.io/badge/AWS-FF9900?style=plastic-square&logo=amazonaws&logoColor=white">
@@ -28,7 +28,6 @@
   </a>
 </div>
 
-<br>
 
 ## Contact
 
