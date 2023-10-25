@@ -2,8 +2,6 @@
 
 <br><br>
 
-<div align=center>
-
 ## Skill
 <div style="display: flex; flex-direction: row;">
   <img src="https://img.shields.io/badge/JAVA-007396?style=plastic-square&logo=java&logoColor=white">
@@ -43,5 +41,3 @@
 <br><br>
 
 ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=ski3453&show_icons=true&theme=graywhite)
-
-</div>
