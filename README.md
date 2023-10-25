@@ -30,11 +30,12 @@
   </a>
 </div>
 
+<br>
 
 ## Contact
 
 <div style="display: flex; flex-direction: row;">
-  <a href="mailto:sr940718@gmail.com">
+  <a href="mailto:ski3453@kakao.com">
     <img src="https://img.shields.io/badge/gmail-EA4335?style=plastic-square&logo=gmail&logoColor=white">
   </a>
 </div>
