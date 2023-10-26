@@ -30,8 +30,9 @@
 
 <br>
 
+<div align=right>
+
 ## Log
-<div align=left>
   <a href="https://velog.io/@ski3453/">
     <img src="https://img.shields.io/badge/Tistory-000000?style=plastic-square&logo=Tistory&logoColor=white">
   </a>
