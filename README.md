@@ -5,7 +5,7 @@
 ## 📩 Contact
 <div>
   <a href="mailto:ski3453@kakao.com">
-    <img src="https://img.shields.io/badge/gmail-EA4335?style=plastic-square&logo=gmail&logoColor=white">
+    <img src="https://img.shields.io/badge/kakao-EA4335?style=plastic-square&logo=gmail&logoColor=white">
   </a>
 </div>
 <br>
