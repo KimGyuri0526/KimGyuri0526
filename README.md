@@ -39,6 +39,8 @@
 <div align=right>
 
 ## Stats 📊
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FKimGyuri0526&count_bg=%23A789C8&title_bg=%237933AB&icon=github.svg&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
+[![Solved.ac프로필](http://mazassumnida.wtf/api/mini/generate_badge?boj=ski3453)](https://solved.ac/ski3453)
+<br>
 ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=KimGyuri0526&show_icons=true&theme=graywhite)
-[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=ski3453)](https://solved.ac/ski3453/)
 </div>
