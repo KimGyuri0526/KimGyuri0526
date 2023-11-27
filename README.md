@@ -5,14 +5,14 @@
 ## 📩 Contact
 <div>
   <a href="mailto:ski3453@kakao.com">
-    <img src="https://img.shields.io/badge/KakaoMail-EA4335?style=plastic-square&logo=gmail&logoColor=white">
+    <img src="https://img.shields.io/badge/KakaoMail-FFCD00?style=plastic-square&logo=gmail&logoColor=white">
   </a>
 </div>
 <br>
 
 ## 🔧 Skill
 <div>
-  <img src="https://img.shields.io/badge/JAVA-007396?style=plastic-square&logo=java&logoColor=white">
+  <img src="https://img.shields.io/badge/Java-007396?style=plastic-square&logo=java&logoColor=white">
   <img src="https://img.shields.io/badge/Spring-6DB33F?style=plastic-square&logo=Spring&logoColor=white">
   <img src="https://img.shields.io/badge/mysql-4479A1?style=plastic-square&logo=mysql&logoColor=white">
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=plastic-square&logo=CSS3&logoColor=white">
