@@ -39,6 +39,6 @@
 <div align=right>
 
 ## Stats 📊
-![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=ski3453&show_icons=true&theme=graywhite)
+![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=KimGyuri0526&show_icons=true&theme=graywhite)
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=ski3453)](https://solved.ac/ski3453/)
 </div>
