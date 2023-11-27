@@ -14,7 +14,7 @@
 <div>
   <img src="https://img.shields.io/badge/Java-007396?style=plastic-square&logo=java&logoColor=white">
   <img src="https://img.shields.io/badge/Spring-6DB33F?style=plastic-square&logo=Spring&logoColor=white">
-  <img src="https://img.shields.io/badge/mysql-4479A1?style=plastic-square&logo=mysql&logoColor=white">
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=plastic-square&logo=mysql&logoColor=white">
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=plastic-square&logo=CSS3&logoColor=white">
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=plastic-square&logo=html5&logoColor=white">
 </div>
