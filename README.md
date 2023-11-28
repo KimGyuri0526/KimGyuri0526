@@ -31,7 +31,7 @@
 <div align=right>
   
 ## Log 🐾
-  [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fvelog.io%2F%40ski3453&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=My+Velog&edge_flat=false)](https://hits.seeyoufarm.com) <br>
+  [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fvelog.io%2F%40ski3453&count_bg=%2379C83D&title_bg=%23555555&icon=velog.svg&icon_color=%23E7E7E7&title=My+Velog&edge_flat=false)](https://hits.seeyoufarm.com) <br>
   [![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api?name=ski3453)](https://velog.io/@ski3453)
 </div>
 <br>
@@ -39,7 +39,7 @@
 <div align=right>
 
 ## Stats 📊
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FKimGyuri0526&count_bg=%23A789C8&title_bg=%237933AB&icon=github.svg&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FKimGyuri0526&count_bg=%23B591C4&title_bg=%236E08A5&icon=github.svg&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
 [![Solved.ac프로필](http://mazassumnida.wtf/api/mini/generate_badge?boj=ski3453)](https://solved.ac/ski3453)
 <br>
 ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=KimGyuri0526&show_icons=true&theme=graywhite)
